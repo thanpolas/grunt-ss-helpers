@@ -1,0 +1,41 @@
+{
+  "name": "grunt-ss-helpers",
+  "description": "Grunt helpers",
+  "version": "0.0.1",
+  "homepage": "https://github.com/thanpolas/grunt-ss-helpers",
+  "author": {
+    "name": "Thanasis Polychronakis",
+    "email": "thanpolas@gmail.com",
+    "url": "http://thanpol.as/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thanpolas/grunt-ss-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thanpolas/grunt-ss-helpers/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/thanpolas/grunt-ss-helpers/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/grunt-helpers.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "~0.4.0"
+
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "gruntplugin",
+    "helper"
+  ]
+}
