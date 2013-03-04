@@ -1,7 +1,7 @@
 {
   "name": "grunt-ss-helpers",
   "description": "Grunt helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/thanpolas/grunt-ss-helpers",
   "author": {
     "name": "Thanasis Polychronakis",
@@ -29,8 +29,8 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt": "~0.4.0"
-
+    "grunt": "~0.4.0",
+    "when": "~1.8.1"
   },
   "devDependencies": {
   },
